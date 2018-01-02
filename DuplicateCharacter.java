@@ -32,7 +32,8 @@ public class DuplicateCharacter {
 		if(i == -1){
 			map.put(ch, 1);
 		}else{
-			System.out.print(ch+" ");
+			if(ch!=' ')
+				System.out.print(ch+" ");
 		}
 
 		str = str.substring(1);
