@@ -1,4 +1,4 @@
-# String_DuplicateCharater
+# String_DuplicateCharacter
 Find the duplicate character from String and display the characters 
 
 Input :
